@@ -1,0 +1,10 @@
+Git Clone : To get the copy of remote repository to Local Repository...... Command - git clone <remote(link of http)> <branch> 
+For Ex: git clone https://github.com/BeyondHumanLimits1/Data_Science_AI_ML.git main
+git status : To show the current status/update in our Repository ..........Command - git status
+git commit : It records the changes to the repository .....................Command - git commit -m "Message"
+For ex: git commit -m "Original File"
+git add    : It add the new file or update the file........................Command - git add .   or git add <file name>
+For Ex: git add . (It load the whole files of the local repository)........git add Height_Weight_Predictor (It load the specified file only) 
+git push   : To load the files of local repository into Remote Repository..Command - git push
+git pull   : To load the files of Remote repository into local repository..Command - git pull
+git diff   : It shows the changes/Modification of the file.................Command - git diff
